@@ -1,3 +1,7 @@
+# variable.py
+
+
+
 # 3+2
 # 5
 # >>> 10-4
@@ -14,4 +18,20 @@
 
 
 
-print(3+2)
+# print(3+2)
+
+
+
+
+# a=5
+# # print(a)
+# type(a)
+
+# print(a)
+# a = 5
+# print(type(a))
+
+
+
+a = 10.5
+print(type(a))
