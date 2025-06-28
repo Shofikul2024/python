@@ -64,9 +64,69 @@
 
 
 
-b=['onion' , 'potato ', 'ginger' , 'cucumber' ,1, 3.1416]
+# b=['onion' , 'potato ', 'ginger' , 'cucumber' ,1, 3.1416]
  
-b[0]='shofikul'
+# b[0]='shofikul'
+ 
+# print(b)
+
+
+
+
+
+
+
+
+# b=['onion' , 'potato ', 'ginger' , 'cucumber' ,1, 3.1416]
+ 
+# b[3]='mango'
+ 
+# print(b)
+
+
+
+
+
+
+
+
+
+# b=['onion' , 'potato ', 'ginger' , 'cucumber' ,1, 3.1416]
+ 
+# b[4]='jambura'
+ 
+# print(b)
+
+
+
+
+# b=['onion' , 'potato', 'ginger' , 'cucumber' ,1, 3.1416]
+ 
+# b.remove('potato')
+# print(b)
+
+
+
+
+# b=['onion' , 'potato', 'ginger' , 'cucumber' ,1, 3.1416]
+ 
+# b.remove('potato')
+# print(b)
+
+
+
+
+
+b=['onion' , 'potato ', 'ginger' , 'cucumber' ]
+del b[-1]
  
 print(b)
 
+
+
+
+# b = ['onion', 'potato', 'ginger', 'cucumber']
+
+# del b[-1]   # শুধু cucumber মুছে ফেলবে
+
+# print(b)
