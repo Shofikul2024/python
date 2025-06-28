@@ -36,6 +36,14 @@
 # a = 10.5
 # print(type(a))
 
+"""    
+shofikul = True
+print(type(shofikul))
 
 shofikul = True
 print(type(shofikul))
+
+shofikul = True
+print(type(shofikul))
+
+ """
