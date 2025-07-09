@@ -87,3 +87,121 @@ print(x+y)
 
 
 
+
+
+'''  
+
+x=input("Enter your  first  Name:" ,)
+y=input("Enter your last  Name:" ,)
+
+# x=int( x)
+# y=int( y)
+
+print("Full name:" , x+y)
+
+'''
+
+
+
+# x=500
+# y=50
+
+# print(x-y)
+
+
+
+
+
+# x=500
+# y=500
+
+# print(x+y)
+
+
+
+# x=input(" Your first number:")
+# y=input(" Your  second number:")
+
+
+# x=int(x)
+# y=int(y)
+# print("summation :", x+y)
+
+
+
+
+
+
+
+
+
+'''
+
+x=input(" Your first number:")
+y=input(" Your  second number:")
+
+
+x=int(x)
+y=int(y)
+print("summation :", x-y)
+
+
+ 
+
+
+''' 
+
+
+
+
+
+
+
+'''
+
+ x=input(" Your first number:")
+y=input(" Your  second number:")
+
+
+x=int(x)
+y=int(y)
+print("multiplication:", x*y)
+'''
+
+
+
+
+
+
+# x=input(" Your first number:")
+# y=input(" Your  second number:")
+
+
+# x=int(x)
+# y=int(y)
+# print("multiplication:", x*y)
+
+
+
+
+
+# x=input(" Your first number:")
+# y=input(" Your  second number:")
+
+
+# x=int(x)
+# y=int(y)
+# print("division:", x/y)
+
+
+
+
+# x=input(" Your first number:")
+# y=input(" Your  second number:")
+
+
+# x=float(x)
+# y=float(y)
+# print("division:", x/y)
+
+
