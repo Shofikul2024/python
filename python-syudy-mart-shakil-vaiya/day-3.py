@@ -64,3 +64,26 @@ print(x+y)
 
 
 '''
+
+
+
+# x=int(input("Enter your first Number:"))
+# y=int(input("Enter your second Number:"))
+
+
+# print(x+y)
+
+
+
+
+
+# x=input("enter your  first nomber:" ,)
+# y=input("enter your second   nomber:" ,)
+
+# x=int( x)
+# y=int( y)
+
+# print(x+y)
+
+
+
