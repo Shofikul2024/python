@@ -59,7 +59,13 @@
 
 
 
-variableTuple=(" onion " , " potato " , "cucumber" , '  mango' )
-print(variableTuple)
+# variableTuple=(" onion " , " potato " , "cucumber" , '  mango' )
+# print(variableTuple)
 
-print (type(variableTuple) )
+# print (type(variableTuple) )
+
+
+
+
+
+

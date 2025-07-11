@@ -1,0 +1,19 @@
+# x = 'dhaka'
+ 
+ 
+# y = 'barisal'
+
+# z = 'sylhet'
+
+
+
+
+
+# print('-'.join((x, y, z)))
+
+
+
+a="shofikl"
+b="islam"
+c="student"
+print("-".join((a,b,c)))
