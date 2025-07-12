@@ -13,7 +13,70 @@
 
 
 
-a="shofikl"
-b="islam"
-c="student"
-print("-".join((a,b,c)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# add string 
+
+# a="shofikl"
+# b="islam"
+# c="student"
+# print("-".join((a,b,c)))
+
+
+
+
+
+
+
+
+# a="shofikl"
+# b="islam"
+# c="student"
+ 
+# print( a + '-' +  b +  '-'       +c)
+
+
+
+
+
+
+'''  strip   method    diye    space   remove  kora    jay    ,   first  and last  ar   ?    question mark delete  kora jay '''
+# sentence ='How can a clam cram in a clean cream can?'
+ 
+# print( sentence.strip('?'))
+
+
+
+
+
+
+
+# sentence = 'How can a clam cram in a clean cream can?'
+# sentence.split(' ')
+# print(sentence.split(' '))
+
+
+
+#  output:['How', 'can', 'a', 'clam', 'cram', 'in', 'a', 'clean', 'cream', 'can?']
+
+
+
+
+
+
+
+
+
