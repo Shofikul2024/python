@@ -54,3 +54,6 @@ from calculator import add , sub ,mul
 print(add(70 ,60))
 print(sub(70 ,60))
 print(mul(70 ,60))
+
+
+import math
